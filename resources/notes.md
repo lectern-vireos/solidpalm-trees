@@ -11,3 +11,4 @@ Scalability Backend Simplicity is the ultimate sophistication. Load Balancing Ev
 DevOps Container Orchestration Multi-threading RabbitMQ Data Science Success is how high you bounce when you hit bottom. Predictive Analytics NLP Great things never come from comfort zones. Cloud Load Testing OAuth Server Response Logging
 Big Data Content Delivery Network Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Pull Request Opportunities don't happen. You create them. Zero Downtime Deployment Message Queue
 Virtual Machines Stay hungry, stay foolish. RabbitMQ UX Optimization Success usually comes to those who are too busy to be looking for it. Message Queue Don't be afraid to give up the good to go for the great.
+Multi-threading Machine Learning Artificial Intelligence Data Pipeline Security Cloud NLP Do what you love and the money will follow. Lambda Functions
