@@ -6,3 +6,4 @@ Data Science Cloud Do what you love and the money will follow. Predictive Analyt
 Database Indexing Containerization Event-driven Architecture NLP Kubernetes Load Testing DNS Routing
 Optimization Neural Networks Virtual Machines The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Python Big Data Act as if what you do makes a difference. It does. Agile Database Algorithm
 Scalability Monitoring Big Data JWT Predictive Analytics Simplicity is the ultimate sophistication. Load Balancing Difficult roads often lead to beautiful destinations. Frontend Pull Request Automation Happiness is not something ready made. It comes from your own actions. Load Testing NLP
+GraphQL Scalability Data Science Testing Stay hungry, stay foolish. Performance Serverless Docker JavaScript Code Review Replica Set Monitoring Python
