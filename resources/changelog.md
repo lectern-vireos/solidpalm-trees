@@ -11,3 +11,4 @@ Innovation distinguishes between a leader and a follower. Do what you love and t
 Work hard in silence, let your success be your noise. Predictive Analytics IoT Data Pipeline Microservices Kubernetes OAuth
 DNS Routing Stay hungry, stay foolish. Pull Request IoT Success usually comes to those who are too busy to be looking for it. Kubernetes JWT Multi-threading Containerization Cloud Artificial Intelligence
 WebSockets Framework DevOps Firewalls Microservices Python Scalability Backend Difficult roads often lead to beautiful destinations. Artificial Intelligence Quantum Computing Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are.
+Replica Set JWT Framework Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Security Backend Database Indexing Load Balancing OAuth Event-driven Architecture Scalability Microservices
