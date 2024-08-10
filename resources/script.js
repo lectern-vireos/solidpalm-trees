@@ -7,3 +7,4 @@ Content Delivery Network Database Indexing JWT Backend Opportunities don't happe
 Backend Virtual Machines Artificial Intelligence Dream big and dare to fail. Predictive Analytics OAuth Firewalls If you can dream it, you can do it. Kafka Agile Cloud Latency Optimization Docker
 Load Testing Database Indexing Simplicity is the ultimate sophistication. Microservices API Gateway Firewalls Data Pipeline
 Big Data Success doesn’t just find you. You have to go out and get it. Microservices Cloud Functions Success usually comes to those who are too busy to be looking for it. Blockchain Scalability
+Data Pipeline React GraphQL Work hard in silence, let your success be your noise. DevOps Container Orchestration Success is how high you bounce when you hit bottom. Kafka Quantum Computing Monitoring Scalability Zero Downtime Deployment Cloud Optimization Database
