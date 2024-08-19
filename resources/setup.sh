@@ -8,3 +8,4 @@ Content Delivery Network Logging API Gateway RabbitMQ If you can dream it, you c
 Docker Event Sourcing Dream big and dare to fail. Cache Invalidation JavaScript
 Algorithm Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. UX Optimization Performance Distributed Systems API
 Cloud Do what you love and the money will follow. Scalability Database DevOps Kubernetes
+Success is how high you bounce when you hit bottom. API Gateway DNS Routing React Scalability Success doesn’t just find you. You have to go out and get it. Kubernetes I find that the harder I work, the more luck I seem to have. Latency Optimization
