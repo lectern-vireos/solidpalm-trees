@@ -8,3 +8,4 @@ Docker Event Sourcing Predictive Analytics Opportunities don't happen. You creat
 Performance Version Control Agile Microservices Opportunities don't happen. You create them. NLP Do what you love and the money will follow. Blockchain To be the best, you must be able to handle the worst. Testing Security
 Data Science Backend UX Optimization Deployment Framework Dream big and dare to fail. Message Queue Success is how high you bounce when you hit bottom. Database Indexing Server Response Do what you love and the money will follow. To be the best, you must be able to handle the worst. Security Multi-threading Sharding
 Machine Learning Data Pipeline Kafka React Docker Code Review Latency Optimization
+Cloud Functions Kafka Server Response Scalability WebSockets Zero Downtime Deployment A/B Testing Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow.

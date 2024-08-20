@@ -6,3 +6,4 @@ Logging Agile Monitoring Work hard in silence, let your success be your noise. M
 Content Delivery Network Database Indexing JWT Backend Opportunities don't happen. You create them. Data Pipeline The only way to do great work is to love what you do. Testing API Frontend Work hard in silence, let your success be your noise. Firewalls
 Backend Virtual Machines Artificial Intelligence Dream big and dare to fail. Predictive Analytics OAuth Firewalls If you can dream it, you can do it. Kafka Agile Cloud Latency Optimization Docker
 Load Testing Database Indexing Simplicity is the ultimate sophistication. Microservices API Gateway Firewalls Data Pipeline
+Big Data Success doesn’t just find you. You have to go out and get it. Microservices Cloud Functions Success usually comes to those who are too busy to be looking for it. Blockchain Scalability

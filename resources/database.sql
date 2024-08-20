@@ -8,3 +8,4 @@ Logging JavaScript Success usually comes to those who are too busy to be looking
 DNS Routing Success doesn’t just find you. You have to go out and get it. Database Deployment Data Science
 Frontend API Gateway Microservices To be the best, you must be able to handle the worst. Blockchain Cache Invalidation
 DevOps WebSockets Success doesn’t just find you. You have to go out and get it. Serverless Container Orchestration Backend Blockchain Containerization To be the best, you must be able to handle the worst. Zero Downtime Deployment Pull Request
+NLP Multi-threading Pull Request Do what you love and the money will follow. GraphQL Distributed Systems API Gateway
