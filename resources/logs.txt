@@ -3,3 +3,4 @@ Server Response Edge Computing JWT CI/CD Algorithm Difficult roads often lead to
 Neural Networks Containerization Server Response Message Queue Artificial Intelligence
 Virtual Machines Code Review To be the best, you must be able to handle the worst. Algorithm Lambda Functions Event-driven Architecture Framework Backend Neural Networks UX Optimization Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them.
 Database Indexing Security Load Testing Event-driven Architecture Innovation distinguishes between a leader and a follower. RabbitMQ DNS Routing Cache Invalidation Logging
+Don't be afraid to give up the good to go for the great. Replica Set Do what you love and the money will follow. Kafka Load Testing Innovation distinguishes between a leader and a follower. OAuth

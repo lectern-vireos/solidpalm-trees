@@ -7,3 +7,4 @@ Cache Invalidation Testing IoT Multi-threading Don't be afraid to give up the go
 To be the best, you must be able to handle the worst. If you can dream it, you can do it. Code Review Pull Request Testing
 UX Optimization GraphQL Database NLP Optimization Edge Computing Docker Work hard in silence, let your success be your noise. IoT JavaScript WebSockets Cloud Dream big and dare to fail. Great things never come from comfort zones.
 GraphQL Edge Computing API Gateway Work hard in silence, let your success be your noise. Kubernetes Lambda Functions Cloud
+React Docker Big Data WebSockets If you can dream it, you can do it. Predictive Analytics Data Pipeline
