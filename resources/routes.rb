@@ -17,3 +17,4 @@ Database Indexing JavaScript Version Control Deployment Sharding If you can drea
 Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. A/B Testing I find that the harder I work, the more luck I seem to have. Framework
 Zero Downtime Deployment Big Data Parallel Processing RabbitMQ Algorithm Multi-threading Do what you love and the money will follow. Edge Computing WebSockets Deployment Artificial Intelligence Neural Networks
 Distributed Systems If you can dream it, you can do it. React Quantum Computing Simplicity is the ultimate sophistication. NLP Kafka Agile Dream big and dare to fail.
+CI/CD Cache Invalidation Opportunities don't happen. You create them. Load Testing The only way to do great work is to love what you do. Edge Computing Big Data Success is not in what you have, but who you are. IoT Algorithm Database Cloud Happiness is not something ready made. It comes from your own actions.
