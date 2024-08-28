@@ -10,3 +10,4 @@ Happiness is not something ready made. It comes from your own actions. Distribut
 Lambda Functions Container Orchestration RabbitMQ React Machine Learning DevOps Python OAuth Data Science Neural Networks Predictive Analytics If you can dream it, you can do it. Sharding
 Do what you love and the money will follow. GraphQL Cloud Happiness is not something ready made. It comes from your own actions. NLP Frontend React
 Edge Computing Cache Invalidation JWT Security Containerization UX Optimization NLP Act as if what you do makes a difference. It does. Neural Networks Frontend Content Delivery Network Data Science Opportunities don't happen. You create them.
+Kafka Docker Containerization Event Sourcing Content Delivery Network Replica Set Multi-threading Machine Learning Distributed Systems OAuth
