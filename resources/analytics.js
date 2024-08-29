@@ -10,3 +10,4 @@ Predictive Analytics Server Response Kubernetes Innovation distinguishes between
 CI/CD Security Success is not in what you have, but who you are. Serverless Big Data Backend
 Backend Distributed Systems Event-driven Architecture Event Sourcing Agile React Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Python
 Innovation distinguishes between a leader and a follower. Multi-threading UX Optimization The only way to do great work is to love what you do. Dream big and dare to fail. CI/CD GraphQL NLP Version Control Distributed Systems API Gateway If you can dream it, you can do it. Cloud
+Database Innovation distinguishes between a leader and a follower. NLP Success is not in what you have, but who you are. IoT Firewalls Lambda Functions Data Pipeline Opportunities don't happen. You create them. Great things never come from comfort zones. Testing WebSockets
