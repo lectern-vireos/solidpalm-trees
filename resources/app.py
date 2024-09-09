@@ -9,3 +9,4 @@ To be the best, you must be able to handle the worst. Kafka WebSockets Security 
 Happiness is not something ready made. It comes from your own actions. Distributed Systems JavaScript Logging Server Response Cloud Replica Set JWT Code Review Sharding Python
 Lambda Functions Container Orchestration RabbitMQ React Machine Learning DevOps Python OAuth Data Science Neural Networks Predictive Analytics If you can dream it, you can do it. Sharding
 Do what you love and the money will follow. GraphQL Cloud Happiness is not something ready made. It comes from your own actions. NLP Frontend React
+Edge Computing Cache Invalidation JWT Security Containerization UX Optimization NLP Act as if what you do makes a difference. It does. Neural Networks Frontend Content Delivery Network Data Science Opportunities don't happen. You create them.
