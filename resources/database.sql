@@ -7,3 +7,4 @@ Algorithm Success doesn’t just find you. You have to go out and get it. Simplici
 Logging JavaScript Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Kubernetes Happiness is not something ready made. It comes from your own actions. Cloud Success is not in what you have, but who you are. GraphQL Security Containerization Neural Networks
 DNS Routing Success doesn’t just find you. You have to go out and get it. Database Deployment Data Science
 Frontend API Gateway Microservices To be the best, you must be able to handle the worst. Blockchain Cache Invalidation
+DevOps WebSockets Success doesn’t just find you. You have to go out and get it. Serverless Container Orchestration Backend Blockchain Containerization To be the best, you must be able to handle the worst. Zero Downtime Deployment Pull Request
