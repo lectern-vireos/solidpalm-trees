@@ -7,3 +7,4 @@ Database Indexing API Gateway Frontend React Load Balancing Load Testing Neural 
 Load Testing Opportunities don't happen. You create them. Lambda Functions Frontend Data Pipeline Success is how high you bounce when you hit bottom. Microservices Virtual Machines Happiness is not something ready made. It comes from your own actions. Latency Optimization Cache Invalidation Simplicity is the ultimate sophistication. JWT
 To be the best, you must be able to handle the worst. Kafka WebSockets Security JWT Big Data Frontend Database Algorithm
 Happiness is not something ready made. It comes from your own actions. Distributed Systems JavaScript Logging Server Response Cloud Replica Set JWT Code Review Sharding Python
+Lambda Functions Container Orchestration RabbitMQ React Machine Learning DevOps Python OAuth Data Science Neural Networks Predictive Analytics If you can dream it, you can do it. Sharding
