@@ -10,3 +10,4 @@ Big Data Automation Artificial Intelligence Message Queue Container Orchestratio
 Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Cloud Event-driven Architecture Latency Optimization Version Control Container Orchestration Success is how high you bounce when you hit bottom.
 Work hard in silence, let your success be your noise. Predictive Analytics IoT Data Pipeline Microservices Kubernetes OAuth
 DNS Routing Stay hungry, stay foolish. Pull Request IoT Success usually comes to those who are too busy to be looking for it. Kubernetes JWT Multi-threading Containerization Cloud Artificial Intelligence
+WebSockets Framework DevOps Firewalls Microservices Python Scalability Backend Difficult roads often lead to beautiful destinations. Artificial Intelligence Quantum Computing Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are.
