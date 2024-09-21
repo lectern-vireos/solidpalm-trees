@@ -13,3 +13,4 @@ Scalability JavaScript DNS Routing To be the best, you must be able to handle th
 CI/CD Success is not in what you have, but who you are. Firewalls Blockchain Testing Deployment Performance Success is how high you bounce when you hit bottom. Parallel Processing OAuth API Gateway Zero Downtime Deployment Opportunities don't happen. You create them. Code Review
 Automation Data Science NLP Virtual Machines Do what you love and the money will follow.
 Multi-threading UX Optimization API WebSockets Testing Blockchain RabbitMQ
+Algorithm DevOps Do what you love and the money will follow. RabbitMQ Performance Innovation distinguishes between a leader and a follower. JavaScript Success is how high you bounce when you hit bottom. Serverless Blockchain Work hard in silence, let your success be your noise.
