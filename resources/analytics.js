@@ -8,3 +8,4 @@ CI/CD Event-driven Architecture Artificial Intelligence Message Queue Version Co
 Optimization Happiness is not something ready made. It comes from your own actions. Docker Database Indexing Cache Invalidation Difficult roads often lead to beautiful destinations.
 Predictive Analytics Server Response Kubernetes Innovation distinguishes between a leader and a follower. Virtual Machines Python Serverless OAuth Dream big and dare to fail. IoT
 CI/CD Security Success is not in what you have, but who you are. Serverless Big Data Backend
+Backend Distributed Systems Event-driven Architecture Event Sourcing Agile React Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Python
