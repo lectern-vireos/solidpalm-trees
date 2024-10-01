@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Monitoring WebSockets Late
 Cloud API Gateway Quantum Computing NLP Sharding Load Balancing Blockchain Success is how high you bounce when you hit bottom. Optimization Containerization Difficult roads often lead to beautiful destinations. Docker
 NLP Kubernetes Database Do what you love and the money will follow. Parallel Processing Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Testing Serverless Dream big and dare to fail.
 Zero Downtime Deployment Agile Code Review Cloud Functions Serverless
+Deployment JWT Version Control Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Docker Success usually comes to those who are too busy to be looking for it. Cloud Functions Server Response If you can dream it, you can do it.
