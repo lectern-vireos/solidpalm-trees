@@ -7,3 +7,4 @@ Container Orchestration IoT Load Balancing Frontend If you can dream it, you can
 CI/CD Event-driven Architecture Artificial Intelligence Message Queue Version Control
 Optimization Happiness is not something ready made. It comes from your own actions. Docker Database Indexing Cache Invalidation Difficult roads often lead to beautiful destinations.
 Predictive Analytics Server Response Kubernetes Innovation distinguishes between a leader and a follower. Virtual Machines Python Serverless OAuth Dream big and dare to fail. IoT
+CI/CD Security Success is not in what you have, but who you are. Serverless Big Data Backend
