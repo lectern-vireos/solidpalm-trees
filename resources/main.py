@@ -4,3 +4,4 @@ Cache Invalidation Containerization Neural Networks Great things never come from
 Edge Computing Machine Learning Dream big and dare to fail. Pull Request NLP A/B Testing Data Pipeline Containerization Framework
 Latency Optimization Cloud Functions JavaScript Python Kafka Backend If you can dream it, you can do it. JWT Content Delivery Network Parallel Processing Neural Networks
 Cache Invalidation Testing IoT Multi-threading Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Security Load Testing Parallel Processing Success is how high you bounce when you hit bottom.
+To be the best, you must be able to handle the worst. If you can dream it, you can do it. Code Review Pull Request Testing
