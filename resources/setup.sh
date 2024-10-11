@@ -6,3 +6,4 @@ Kubernetes Distributed Systems GraphQL React JavaScript NLP Deployment Lambda Fu
 Python JavaScript Lambda Functions Zero Downtime Deployment Testing Security Microservices Simplicity is the ultimate sophistication. A/B Testing Serverless Big Data API Database
 Content Delivery Network Logging API Gateway RabbitMQ If you can dream it, you can do it. Microservices Artificial Intelligence Stay hungry, stay foolish. Automation Work hard in silence, let your success be your noise. Security Kubernetes Don't be afraid to give up the good to go for the great. Cloud Functions
 Docker Event Sourcing Dream big and dare to fail. Cache Invalidation JavaScript
+Algorithm Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. UX Optimization Performance Distributed Systems API
