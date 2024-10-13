@@ -5,3 +5,4 @@ Content Delivery Network Kubernetes If you can dream it, you can do it. JWT Pred
 Kubernetes Distributed Systems GraphQL React JavaScript NLP Deployment Lambda Functions JWT A/B Testing Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Dream big and dare to fail. Security
 Python JavaScript Lambda Functions Zero Downtime Deployment Testing Security Microservices Simplicity is the ultimate sophistication. A/B Testing Serverless Big Data API Database
 Content Delivery Network Logging API Gateway RabbitMQ If you can dream it, you can do it. Microservices Artificial Intelligence Stay hungry, stay foolish. Automation Work hard in silence, let your success be your noise. Security Kubernetes Don't be afraid to give up the good to go for the great. Cloud Functions
+Docker Event Sourcing Dream big and dare to fail. Cache Invalidation JavaScript
