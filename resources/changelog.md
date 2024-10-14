@@ -9,3 +9,4 @@ JavaScript Act as if what you do makes a difference. It does. Artificial Intelli
 Big Data Automation Artificial Intelligence Message Queue Container Orchestration
 Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Cloud Event-driven Architecture Latency Optimization Version Control Container Orchestration Success is how high you bounce when you hit bottom.
 Work hard in silence, let your success be your noise. Predictive Analytics IoT Data Pipeline Microservices Kubernetes OAuth
+DNS Routing Stay hungry, stay foolish. Pull Request IoT Success usually comes to those who are too busy to be looking for it. Kubernetes JWT Multi-threading Containerization Cloud Artificial Intelligence
