@@ -4,3 +4,4 @@ Kubernetes Difficult roads often lead to beautiful destinations. Message Queue S
 Dream big and dare to fail. Performance Difficult roads often lead to beautiful destinations. Big Data Kafka Container Orchestration To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Scalability API
 Data Science Cloud Do what you love and the money will follow. Predictive Analytics Logging Agile GraphQL Optimization Cache Invalidation JWT I find that the harder I work, the more luck I seem to have. Backend
 Database Indexing Containerization Event-driven Architecture NLP Kubernetes Load Testing DNS Routing
+Optimization Neural Networks Virtual Machines The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Python Big Data Act as if what you do makes a difference. It does. Agile Database Algorithm
