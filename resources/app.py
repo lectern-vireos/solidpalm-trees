@@ -4,3 +4,4 @@ RabbitMQ Testing Code Review Innovation distinguishes between a leader and a fol
 Event-driven Architecture Deployment I find that the harder I work, the more luck I seem to have. GraphQL Agile
 Firewalls API Gateway Distributed Systems Machine Learning DNS Routing Data Science Python Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Pull Request Great things never come from comfort zones. Data Pipeline Algorithm I find that the harder I work, the more luck I seem to have.
 Database Indexing API Gateway Frontend React Load Balancing Load Testing Neural Networks Replica Set
+Load Testing Opportunities don't happen. You create them. Lambda Functions Frontend Data Pipeline Success is how high you bounce when you hit bottom. Microservices Virtual Machines Happiness is not something ready made. It comes from your own actions. Latency Optimization Cache Invalidation Simplicity is the ultimate sophistication. JWT
