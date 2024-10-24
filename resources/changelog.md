@@ -7,3 +7,4 @@ Firewalls Server Response Load Testing Monitoring Success is not in what you hav
 A/B Testing Lambda Functions Container Orchestration Framework Kafka
 JavaScript Act as if what you do makes a difference. It does. Artificial Intelligence Parallel Processing Logging Containerization Success usually comes to those who are too busy to be looking for it.
 Big Data Automation Artificial Intelligence Message Queue Container Orchestration
+Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Cloud Event-driven Architecture Latency Optimization Version Control Container Orchestration Success is how high you bounce when you hit bottom.
