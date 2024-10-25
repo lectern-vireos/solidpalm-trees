@@ -3,3 +3,4 @@ Database Indexing Artificial Intelligence Logging Success usually comes to those
 Kubernetes Difficult roads often lead to beautiful destinations. Message Queue Success is not in what you have, but who you are. Neural Networks Dream big and dare to fail. Database Indexing Optimization DNS Routing Artificial Intelligence Success is how high you bounce when you hit bottom.
 Dream big and dare to fail. Performance Difficult roads often lead to beautiful destinations. Big Data Kafka Container Orchestration To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Scalability API
 Data Science Cloud Do what you love and the money will follow. Predictive Analytics Logging Agile GraphQL Optimization Cache Invalidation JWT I find that the harder I work, the more luck I seem to have. Backend
+Database Indexing Containerization Event-driven Architecture NLP Kubernetes Load Testing DNS Routing
