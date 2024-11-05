@@ -5,3 +5,4 @@ Event Sourcing Message Queue Act as if what you do makes a difference. It does. 
 Sharding Microservices Version Control Parallel Processing Framework Kubernetes Load Balancing Success doesn’t just find you. You have to go out and get it. API Don't be afraid to give up the good to go for the great.
 Container Orchestration IoT Load Balancing Frontend If you can dream it, you can do it. Edge Computing
 CI/CD Event-driven Architecture Artificial Intelligence Message Queue Version Control
+Optimization Happiness is not something ready made. It comes from your own actions. Docker Database Indexing Cache Invalidation Difficult roads often lead to beautiful destinations.
