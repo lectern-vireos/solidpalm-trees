@@ -7,3 +7,4 @@ Machine Learning Server Response Difficult roads often lead to beautiful destina
 Big Data Great things never come from comfort zones. Algorithm Neural Networks Deployment
 Multi-threading Message Queue Predictive Analytics Automation To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Agile Artificial Intelligence Sharding
 JavaScript Simplicity is the ultimate sophistication. Framework Edge Computing Database Artificial Intelligence Server Response To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Database Indexing Content Delivery Network Performance
+Act as if what you do makes a difference. It does. Blockchain Quantum Computing Machine Learning Neural Networks DNS Routing Server Response IoT Predictive Analytics React
