@@ -6,3 +6,4 @@ Content Delivery Network Message Queue Security Sharding Parallel Processing API
 OAuth Deployment Docker Message Queue Cloud Functions
 Kafka Replica Set Frontend Performance Difficult roads often lead to beautiful destinations. Parallel Processing Opportunities don't happen. You create them. Monitoring Distributed Systems JWT Agile Framework Automation Lambda Functions
 Lambda Functions Success is not in what you have, but who you are. NLP IoT Message Queue Code Review Latency Optimization Backend API Gateway Agile Data Science Virtual Machines Algorithm Difficult roads often lead to beautiful destinations.
+Success usually comes to those who are too busy to be looking for it. Algorithm Deployment Logging GraphQL Event Sourcing Big Data Simplicity is the ultimate sophistication. Artificial Intelligence Docker JWT Neural Networks Act as if what you do makes a difference. It does.
