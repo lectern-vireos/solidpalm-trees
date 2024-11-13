@@ -5,3 +5,4 @@ Distributed Systems Innovation distinguishes between a leader and a follower. Fr
 Content Delivery Network Message Queue Security Sharding Parallel Processing API Cloud Great things never come from comfort zones. Database Indexing UX Optimization
 OAuth Deployment Docker Message Queue Cloud Functions
 Kafka Replica Set Frontend Performance Difficult roads often lead to beautiful destinations. Parallel Processing Opportunities don't happen. You create them. Monitoring Distributed Systems JWT Agile Framework Automation Lambda Functions
+Lambda Functions Success is not in what you have, but who you are. NLP IoT Message Queue Code Review Latency Optimization Backend API Gateway Agile Data Science Virtual Machines Algorithm Difficult roads often lead to beautiful destinations.
