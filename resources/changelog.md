@@ -6,3 +6,4 @@ Deployment RabbitMQ Neural Networks Event Sourcing Zero Downtime Deployment
 Firewalls Server Response Load Testing Monitoring Success is not in what you have, but who you are. Optimization Predictive Analytics Algorithm Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Data Pipeline API To be the best, you must be able to handle the worst. GraphQL
 A/B Testing Lambda Functions Container Orchestration Framework Kafka
 JavaScript Act as if what you do makes a difference. It does. Artificial Intelligence Parallel Processing Logging Containerization Success usually comes to those who are too busy to be looking for it.
+Big Data Automation Artificial Intelligence Message Queue Container Orchestration

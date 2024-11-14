@@ -4,3 +4,4 @@ Pull Request Happiness is not something ready made. It comes from your own actio
 Event Sourcing Message Queue Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. UX Optimization Artificial Intelligence Machine Learning Innovation distinguishes between a leader and a follower. CI/CD Success is how high you bounce when you hit bottom. Virtual Machines GraphQL
 Sharding Microservices Version Control Parallel Processing Framework Kubernetes Load Balancing Success doesn’t just find you. You have to go out and get it. API Don't be afraid to give up the good to go for the great.
 Container Orchestration IoT Load Balancing Frontend If you can dream it, you can do it. Edge Computing
+CI/CD Event-driven Architecture Artificial Intelligence Message Queue Version Control
