@@ -4,3 +4,4 @@ Performance Machine Learning Edge Computing Load Testing Predictive Analytics Gr
 Distributed Systems Innovation distinguishes between a leader and a follower. Frontend To be the best, you must be able to handle the worst. Message Queue Success usually comes to those who are too busy to be looking for it. Algorithm Replica Set Firewalls Content Delivery Network Dream big and dare to fail. Code Review Cloud NLP
 Content Delivery Network Message Queue Security Sharding Parallel Processing API Cloud Great things never come from comfort zones. Database Indexing UX Optimization
 OAuth Deployment Docker Message Queue Cloud Functions
+Kafka Replica Set Frontend Performance Difficult roads often lead to beautiful destinations. Parallel Processing Opportunities don't happen. You create them. Monitoring Distributed Systems JWT Agile Framework Automation Lambda Functions
