@@ -10,3 +10,4 @@ Optimization Data Pipeline Success is how high you bounce when you hit bottom. A
 Optimization CI/CD Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. JavaScript
 Message Queue I find that the harder I work, the more luck I seem to have. Parallel Processing Docker Zero Downtime Deployment Logging Quantum Computing Automation Database Indexing Database Kafka Performance API
 Scalability JavaScript DNS Routing To be the best, you must be able to handle the worst. Replica Set Quantum Computing Blockchain Version Control React Artificial Intelligence
+CI/CD Success is not in what you have, but who you are. Firewalls Blockchain Testing Deployment Performance Success is how high you bounce when you hit bottom. Parallel Processing OAuth API Gateway Zero Downtime Deployment Opportunities don't happen. You create them. Code Review
