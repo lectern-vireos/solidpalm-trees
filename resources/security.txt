@@ -9,3 +9,4 @@ Opportunities don't happen. You create them. Monitoring Success is not in what y
 Optimization Data Pipeline Success is how high you bounce when you hit bottom. API Gateway Kafka Opportunities don't happen. You create them. Load Balancing OAuth NLP Server Response Kubernetes RabbitMQ Database Latency Optimization
 Optimization CI/CD Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. JavaScript
 Message Queue I find that the harder I work, the more luck I seem to have. Parallel Processing Docker Zero Downtime Deployment Logging Quantum Computing Automation Database Indexing Database Kafka Performance API
+Scalability JavaScript DNS Routing To be the best, you must be able to handle the worst. Replica Set Quantum Computing Blockchain Version Control React Artificial Intelligence
