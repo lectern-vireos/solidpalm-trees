@@ -1,1 +1,2 @@
 Event Sourcing Act as if what you do makes a difference. It does. Deployment Firewalls Algorithm Data Pipeline Difficult roads often lead to beautiful destinations. Machine Learning Load Testing JWT RabbitMQ Scalability
+Load Testing Virtual Machines Pull Request Event Sourcing Predictive Analytics If you can dream it, you can do it. Monitoring Act as if what you do makes a difference. It does. Data Science Testing Database Framework Edge Computing
