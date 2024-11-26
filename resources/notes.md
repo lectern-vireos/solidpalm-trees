@@ -5,3 +5,4 @@ Containerization Success is how high you bounce when you hit bottom. IoT Distrib
 Deployment Monitoring Firewalls Code Review WebSockets Replica Set To be the best, you must be able to handle the worst. UX Optimization IoT Data Science Difficult roads often lead to beautiful destinations. Framework
 RabbitMQ The only way to do great work is to love what you do. Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Event-driven Architecture
 Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. IoT Docker Innovation distinguishes between a leader and a follower. Parallel Processing NLP Firewalls Message Queue RabbitMQ JavaScript Work hard in silence, let your success be your noise. Predictive Analytics Pull Request Replica Set
+Load Testing I find that the harder I work, the more luck I seem to have. Virtual Machines Monitoring IoT Docker
