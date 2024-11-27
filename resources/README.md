@@ -4,3 +4,4 @@ Docker Success usually comes to those who are too busy to be looking for it. Cac
 Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. UX Optimization Content Delivery Network JWT Success doesn’t just find you. You have to go out and get it. WebSockets Container Orchestration Stay hungry, stay foolish. Lambda Functions Message Queue Load Testing Microservices Opportunities don't happen. You create them. Event Sourcing
 Framework Event-driven Architecture Data Pipeline Parallel Processing Algorithm Firewalls
 Performance Success usually comes to those who are too busy to be looking for it. Testing Docker Event-driven Architecture Code Review
+Multi-threading WebSockets Data Pipeline Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Success is not in what you have, but who you are. Kafka Neural Networks
