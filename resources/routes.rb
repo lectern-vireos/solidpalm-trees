@@ -5,3 +5,4 @@ Version Control A/B Testing UX Optimization Quantum Computing DNS Routing Opport
 Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Predictive Analytics Content Delivery Network CI/CD Scalability Message Queue JavaScript
 Machine Learning Server Response Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Load Balancing Scalability Frontend OAuth JWT Firewalls Predictive Analytics Stay hungry, stay foolish.
 Big Data Great things never come from comfort zones. Algorithm Neural Networks Deployment
+Multi-threading Message Queue Predictive Analytics Automation To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Agile Artificial Intelligence Sharding
