@@ -4,3 +4,4 @@ Automation JavaScript Database Happiness is not something ready made. It comes f
 RabbitMQ Code Review A/B Testing Event-driven Architecture I find that the harder I work, the more luck I seem to have. Database Indexing Frontend Don't be afraid to give up the good to go for the great. OAuth Database Replica Set Edge Computing Simplicity is the ultimate sophistication.
 Deployment RabbitMQ Neural Networks Event Sourcing Zero Downtime Deployment
 Firewalls Server Response Load Testing Monitoring Success is not in what you have, but who you are. Optimization Predictive Analytics Algorithm Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Data Pipeline API To be the best, you must be able to handle the worst. GraphQL
+A/B Testing Lambda Functions Container Orchestration Framework Kafka
