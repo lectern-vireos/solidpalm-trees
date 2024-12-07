@@ -3,3 +3,4 @@ To be the best, you must be able to handle the worst. Stay hungry, stay foolish.
 Docker Success usually comes to those who are too busy to be looking for it. Cache Invalidation JavaScript Lambda Functions JWT API Gateway Python Frontend RabbitMQ Firewalls Testing Event Sourcing API Automation
 Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. UX Optimization Content Delivery Network JWT Success doesn’t just find you. You have to go out and get it. WebSockets Container Orchestration Stay hungry, stay foolish. Lambda Functions Message Queue Load Testing Microservices Opportunities don't happen. You create them. Event Sourcing
 Framework Event-driven Architecture Data Pipeline Parallel Processing Algorithm Firewalls
+Performance Success usually comes to those who are too busy to be looking for it. Testing Docker Event-driven Architecture Code Review
