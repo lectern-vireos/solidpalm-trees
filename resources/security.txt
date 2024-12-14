@@ -3,3 +3,4 @@ NLP Multi-threading Load Balancing Data Science Happiness is not something ready
 JWT Big Data UX Optimization Multi-threading Code Review Simplicity is the ultimate sophistication. Event-driven Architecture Happiness is not something ready made. It comes from your own actions.
 Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Deployment NLP React Load Testing Big Data Don't be afraid to give up the good to go for the great. Data Pipeline Scalability CI/CD Docker
 Quantum Computing Firewalls Dream big and dare to fail. Distributed Systems Database Container Orchestration Event-driven Architecture If you can dream it, you can do it. API Gateway Load Balancing Version Control DevOps
+Scalability The only way to do great work is to love what you do. CI/CD Version Control Edge Computing Distributed Systems
