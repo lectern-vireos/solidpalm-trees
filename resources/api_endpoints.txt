@@ -2,3 +2,4 @@ JavaScript Performance Microservices I find that the harder I work, the more luc
 Logging IoT Message Queue Act as if what you do makes a difference. It does. Container Orchestration Distributed Systems
 React To be the best, you must be able to handle the worst. Server Response Optimization Data Pipeline IoT
 Event-driven Architecture Testing NLP Scalability Artificial Intelligence
+Content Delivery Network Success is how high you bounce when you hit bottom. Kubernetes Database API Gateway Docker CI/CD Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Virtual Machines Pull Request
