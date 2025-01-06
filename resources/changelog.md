@@ -2,3 +2,4 @@ Kubernetes DevOps Framework Agile Act as if what you do makes a difference. It d
 Database Backend DNS Routing Database Indexing Framework IoT Containerization Load Testing Docker The only way to do great work is to love what you do. Deployment
 Automation JavaScript Database Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Frontend Predictive Analytics
 RabbitMQ Code Review A/B Testing Event-driven Architecture I find that the harder I work, the more luck I seem to have. Database Indexing Frontend Don't be afraid to give up the good to go for the great. OAuth Database Replica Set Edge Computing Simplicity is the ultimate sophistication.
+Deployment RabbitMQ Neural Networks Event Sourcing Zero Downtime Deployment
