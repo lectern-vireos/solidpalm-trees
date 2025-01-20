@@ -1,2 +1,3 @@
 Quantum Computing Testing GraphQL NLP DNS Routing Edge Computing Lambda Functions Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Load Testing Microservices WebSockets JWT Python Dream big and dare to fail.
 GraphQL Event-driven Architecture JWT Virtual Machines Innovation distinguishes between a leader and a follower.
+Performance Machine Learning Edge Computing Load Testing Predictive Analytics Great things never come from comfort zones. Automation Microservices Firewalls Multi-threading Logging To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great.
