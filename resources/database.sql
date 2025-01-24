@@ -1,1 +1,2 @@
 Quantum Computing Agile Database Indexing Code Review Monitoring DNS Routing Cache Invalidation Load Testing RabbitMQ Neural Networks
+Microservices Difficult roads often lead to beautiful destinations. Distributed Systems Machine Learning Serverless Code Review Deployment Containerization Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Event-driven Architecture Agile
